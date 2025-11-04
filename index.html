@@ -15,14 +15,16 @@
             </a>
 
             <nav>
+                <a href="#accueil" class ="active">Home</a>
                 <a href="#news" class="active">News</a>
                 <a href="#seminars" class="active">Seminars</a>
                 <a href="#conferences" class="active">Conferences</a>
+                <a href="#Ressources" class="active">Ressources</a>
                 <a href="#bureau">Bureau</a>
             </nav>
         </aside>
         <main class="main">
-            <h1>Welcome to DeepLearning3D</h1>
+            <h1>Bienvenue au groupe DeepLearning3D</h1>
             <p>
                 DeepLearning3D is a collaborative initiative to advance deep learning research in hyperspectral imaging
                 and its applications in astrophysical, geological and biomedical sciences.
@@ -49,6 +51,14 @@
                     <em>Loading conferences...</em>
                 </div>
             </section>
+
+            <section class="section" id="ressources">
+                <h2>Ressources</h2>
+                <div id="ressources-content">
+                    <em>Loading conferences...</em>
+                </div>
+            </section>
+
 
             <section class="section" id="bureau">
                 <h2>Bureau</h2>
@@ -94,6 +104,7 @@
     fetchAndRenderMarkdown('news.md', 'news-content');
     fetchAndRenderMarkdown('seminars.md', 'seminars-content');
     fetchAndRenderMarkdown('conferences.md', 'conferences-content');
+        fetchAndRenderMarkdown('ressources.md', 'ressources-content');
     </script>
 </body>
 </html>
