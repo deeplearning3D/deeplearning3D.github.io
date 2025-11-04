@@ -1,5 +1,6 @@
 # Latest News
 
-- **2024-11-03**: DeepLearning3D Symposium Announced! Our annual symposium will take place in December. [Read more](#)
-- **2024-09-20**: Congratulations to our team for the new publication in *IEEE Transactions on Medical Imaging*.
-- **2024-08-05**: Seminar series Fall schedule is now out!
+- **2025-11-03**: DeepLearning3D website up! 
+- **2025-11-03**: First Bureau in place for DeepLearning3D.
+- **2024-11-04**: Deeplearning3D symposium will take place in Lyon. [Read more](https://deeplearning3d.sciencesconf.org)
+
