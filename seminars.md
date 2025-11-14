@@ -1,6 +1,5 @@
-# Upcoming Seminars
+**Conferences and Workshops**
 
-- **Nov 15, 2024**: Dr. A. Dupont – _Self-supervised Learning for 3D Microscopy_
-- **Oct 2, 2024**: Dr. R. Miller – _3D Reconstruction with Deep Neural Networks_
-- **Sep 18, 2024**: Dr. L. Wang – _Physics-Informed Neural Networks_
-- **Sep 4, 2024**: Dr. S. Kim – _Generative Models for 3D Data_
+- Mars 9-11, 2026 | Colloque intelligence artificielle en imagerie biomédicale (IABM) – *ENS Lyon, France*. [Read more](https://iabm2026.sciencesconf.org/).
+
+- Feb 17-19, 2026 | Congrès du GS Chimiométrie – *Nancy, France*. [Read more](https://chemom2026.sciencesconf.org/).

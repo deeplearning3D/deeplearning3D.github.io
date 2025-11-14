@@ -1,6 +1,2 @@
-# Ressources
-
-Voici une liste de ressources utiles pour approfondir vos connaissances et compétences dans divers domaines :
-
-- GDR IASIS : [https://gdr-iasis.cnrs.fr/](https://gdr-iasis.cnrs.fr/)
-- 
+- GDR IASIS. [Read more](https://gdr-iasis.cnrs.fr/).
+- Groupe Hyperspectral de la SFPT. [Read more](https://www.sfpt.fr/hyperspectral/?page_id=29)
